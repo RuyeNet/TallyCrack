@@ -1,0 +1,9 @@
+Package: com.ruyenet.tallycrack
+Name: 鲨鱼记账 Crack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 鲨鱼记账解锁全功能！
+Maintainer: RuyeNet
+Author: RuyeNet
+Section: Cracks
+Depends: mobilesubstrate (>= 0.9.5000)
